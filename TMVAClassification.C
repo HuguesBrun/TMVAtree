@@ -219,14 +219,14 @@ void TMVAClassification( TString myMethodList = "" )
     //‡factory->AddVariable( "E1x5Seed",'F');
     ///factory->AddVariable( "E2x2Seed",'F');
     // factory->AddVariable( "E3x3Seed",'F');
-    factory->AddVariable( "see",'F');
-    factory->AddVariable( "spp",'F');
+    factory->AddVariable( "noZSsee",'F');
+    factory->AddVariable( "noZSspp",'F');
     // factory->AddVariable( "sep",'F');
     factory->AddVariable( "etawidth",'F');
     factory->AddVariable( "phiwidth",'F');
-    factory->AddVariable( "e1x5e5x5",'F');
+    factory->AddVariable( "noZSe1x5e5x5",'F');
     // factory->AddVariable( "s9e25",'F');
-    factory->AddVariable( "R9",'F');
+    factory->AddVariable( "noZSr9",'F');
     //factory->AddVariable( "nLost",'I');
     factory->AddVariable( "kfhits",'I');
     factory->AddVariable( "gsfhits",'I');
